@@ -2,6 +2,7 @@ body{
     color: rgb(163, 17, 17);
     background: rgb(0, 0, 255);
     margin: 0px;
+    font-family: "BBH Sans Bartle", sans-serif;
 }
 
 header{
@@ -20,4 +21,13 @@ section{
 }
 .chamada-texto{
     margin-right: 5%;
+}
+
+h1{
+    font-size: 40px;
+
+}
+
+p{
+    font-size: 20px;
 }
